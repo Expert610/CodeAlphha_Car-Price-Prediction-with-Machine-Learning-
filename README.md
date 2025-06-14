@@ -72,5 +72,5 @@ Muhammad Yasir
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/your-username/CodeAlpha_car-price-prediction.git
 
